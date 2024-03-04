@@ -7,3 +7,5 @@ LastEditors: AisyIE
 LastEditTime: 2024-03-04 22:20:43
 '''
 print('hello world')
+print('hello world')
+print('hello world')
